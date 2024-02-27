@@ -1,0 +1,13 @@
+name: Kanika
+jobTitle: Full-stack
+skills:
+  frontend: angular
+  backend:
+  - .Net Core
+  - EF core
+  - C#
+  Database: sql-server
+testing: |
+  this pipe 
+  creates multiline comment string
+  hello  
